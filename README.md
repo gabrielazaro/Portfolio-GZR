@@ -7,6 +7,18 @@
 
 - 📫 How to reach me **gabrielazaro97@gmail.com**
 
+### Technical Skills:
+- Programming Languages: JavaScript, HTML, CSS.
+- Frameworks and Libraries: React.
+- Databases: MySQL.
+- Version Control: Git, GitHub.
+- Tools and Methodologies: Agile, Scrum.
+
+### Highlights:
+- Developed problem-solving skills and attention to detail through experience.
+- Understanding the needs of users and clients for the development of useful and effective solutions.
+- Efficiently managing time and tasks to meet project deadlines.
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in//gabriela-zambrano-rodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/gabriela-zambrano-rodriguez" height="30" width="40" /></a>
