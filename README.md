@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriela Zambrano Rodriguez</h1>
 <h3 align="center">Fullstack developer with a bachelor's in Psychology. Currently working with Javascript, React, Python, and Flask using agile methodologies. I am passionate about learning about new technologies and finding innovative solutions.</h3>
 
-- 🌱 I’m currently learning **Automation**
+- 🌱 I’m currently learning **IT automation with Python**
 
 - 👯 I’m looking to collaborate on **Any project from which I can learn.**
 
